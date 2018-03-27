@@ -1,0 +1,3 @@
+# Module ogcwebservices
+# RPC service class, partial path of RPC policy file
+com.OGC.WebServices.client.ConnectServer, 4F9D52F2AFC83327E869E90869A4BAF5.gwt.rpc

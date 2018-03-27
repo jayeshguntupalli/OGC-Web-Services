@@ -1,0 +1,2 @@
+serviceClass: com.OGC.WebServices.client.ConnectServer
+path: 4F9D52F2AFC83327E869E90869A4BAF5.gwt.rpc
